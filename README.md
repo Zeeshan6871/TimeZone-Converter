@@ -1,4 +1,3 @@
-```markdown
 # Timezone Converter
 
 ## Overview
@@ -18,7 +17,7 @@ The Timezone Converter is a React application that allows users to convert and c
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Zeeshan6871/TimeZone-Converter.git
    cd your-repository
    ```
 
@@ -72,4 +71,3 @@ The Timezone Converter is a React application that allows users to convert and c
 
 For any questions or feedback, please reach out to [zeeshanahmad6871@gmail.com](mailto:zeeshanahmad6871@gmail.com).
 
-```
